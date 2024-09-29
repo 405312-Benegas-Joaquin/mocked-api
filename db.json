@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 35
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "age": 32
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "age": 40
+    },
+    {
+      "id": 4,
+      "name": "Alice",
+      "age": 28
+    },
+    {
+      "id": 5,
+      "name": "Mike",
+      "age": 33
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "body": "This is my first post."
+    },
+    {
+      "id": 2,
+      "title": "Hello World 2",
+      "body": "This is my second post."
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021
+    }
+  ]
+}
